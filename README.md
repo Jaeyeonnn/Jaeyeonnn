@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeyeonnn)](https://github.com/anuraghazra/github-readme-stats)
 
 ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jaeyeonnn&theme=python-dark&mode=weekly)](https://git.io/streak-stats)
