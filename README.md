@@ -1,12 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m studying my master's degree in Statistics at University of California, Berkeley.
+- 🌱 I’m currently seeking a full-time/internship role in Data Science/Engineering.
+
 <!--
 **Jaeyeonnn/Jaeyeonnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m studying my master's degree in Statistics at University of California, Berkeley.
-- 🌱 I’m currently seeking a full-time/internship role in Data Science/Engineering.
 
 -->
 
