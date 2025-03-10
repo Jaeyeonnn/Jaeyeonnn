@@ -2,6 +2,7 @@
 
 - 🌱 I’m a Statistics Master's student at University of California, Berkeley.
 - 🔭 Currently seeking a full-time/internship role in Data Science/Engineering.
+- 👩‍💻 7 years of work experience in supply chain analysis, demand planning, and marketing analysis in retail and manufacturing industry.
 
 
 <!--
